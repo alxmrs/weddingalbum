@@ -1,2 +1,2 @@
-# weddingphotos
-https://weddingphotos.merose.com
+# weddingalbum
+https://weddingalbum.merose.com
